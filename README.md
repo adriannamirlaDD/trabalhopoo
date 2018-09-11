@@ -1,5 +1,4 @@
 # Carro-POO
-Trabalho de POO (carro). -professor Anderson.
 
 export class Carro{
     pass:number;
